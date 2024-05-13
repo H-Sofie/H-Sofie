@@ -10,5 +10,5 @@ A college student who loves open source projects.
 
 ### Overall Status
 
-[![H-Sofie's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=H-Sofie&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=cn&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![H-Sofie's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=H-Sofie&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 ![H-Sofie](https://count.getloli.com/get/@H-Sofie)
